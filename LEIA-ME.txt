@@ -1,0 +1,15 @@
+COMBATXIS - 2 jogadores (Android + iPhone)
+
+Arquivos (todos na mesma pasta, sem subpastas):
+  index.html    o jogo
+  server.js     o servidor (sem dependencias)
+  package.json  diz a hospedagem como iniciar
+
+Na hospedagem:
+  Build command: npm install
+  Start command: node server.js
+  Variavel de ambiente: ADMIN_KEY = uma senha inventada por voce
+  (opcional) NOME1 e NOME2 = nomes que aparecem no jogo
+
+Convites: abra  https://SEU-SITE/convites?k=SUA_SENHA
+Cada link e de UMA pessoa. Jogue com o celular deitado (horizontal).

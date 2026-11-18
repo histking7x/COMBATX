@@ -1,0 +1,9 @@
+{
+  "name": "combatxis-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor do COMBATXIS para 2 jogadores (sem dependencias)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
